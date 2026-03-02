@@ -1,1 +1,5 @@
-# Aula2ED.lista2.ex2
+# Exercício 2 — Resto da Divisão por Subtrações
+
+Criar uma função recursiva que receba o dividendo e o divisor de uma operação de divisão e, por subtrações, exiba o resto da divisão.
+
+Os números de entrada devem ser números inteiros.
